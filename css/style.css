@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(https://i.ibb.co/3CR0MfY/walpaper-top-secret-b.jpg);
+    background-color: rgb(0, 0, 0);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  
+    
+}
+
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: #ffffff;
+    margin: 20px;
+}
+
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: #ffffff;
+}
+h5{ 
+    margin: 15px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#text1{
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    color: #ffffff;
+    width: 330px;
+    left: 30px;
+    top: 30px;
+}
+#text2{
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    float: right;
+    text-align: right;
+    color: #ffffff;
+    width: 330px;
+    right: 30px;
+    top: 30px;
+}
+
+.btn {    
+    position: relative;
+    left: 100px;
+    top: 200px;
+    border: transparent solid 2px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: transparent;
+    font-size: 20px;
+
+}
+
+.btn:hover{
+    color: #ffffff;
+    border: #ffffff solid 1px;
+}
+
+
+.btn-ind {    
+    position: relative;
+    margin: 10px;
+    width: 90px;
+    top: 10px;
+    border: #ffffff solid 2px;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: #ffffff;
+    font-size: 20px;
+    background-color: transparent;
+}
+
+.btn-ind:hover{
+    color: #ffffff;
+    border: #ffffffa1 solid 1px;
+}
+
+.content{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center
+}
+
+
+
+
+
+.registra{
+    background-color: #1616169d;
+    border: rgb(255, 255, 255) solid 2px;
+    border-radius: 8px;
+    
+   
+    
+    justify-content: center;
+    margin-top: 3vh;
+    margin-bottom: 20vh;
+
+    color: #ffffff;
+
+    
+}
+
+
+#area{
+    width: 50vw;
+    margin: 30px;
+}
+
+
+#result{
+    background-color: transparent;
+    width: 75vw;
+
+    border-radius: 8px;
+}
+.post{
+    border-radius: 8px;
+
+    margin: 30px;
+    margin-top: 3vh;
+    margin-bottom: 30px;
+    background-color: #ffffffa1;
+    border: #000 solid 1px;
+    
+}
+
